@@ -1,60 +1,83 @@
-# My Todo App
+# Pro Task Manager
 
-Welcome to the Todo List app repository! This application helps you organize your tasks efficiently. Below are the details regarding its features, usage, and the technology stack used.
-## Live Demo
-[https://todo-app-one-peach.vercel.app](https://todo-app-one-peach.vercel.app/)
-## Features
-- Add and Update Tasks: Easily add and update tasks to your list with a title, description, category,priority level, tag, due date and sub tasks.
-- Mark as Complete: Mark tasks as complete when you finish them.
-- Delete Tasks: Remove tasks from your list when they are no longer needed.
-- Filtering: Filter tasks based on their completion status, category, tag, priority level, due date and task title.
-- Account Management and Preferences: Manage your account by updating details like your name and set your own preferences like the theme(dark or light mode)
-- Data Persistence: Your tasks are saved on the server, so you can access from any device as long as your logged.
+Pro Task Manager is a modern, full-stack task management application designed to help users stay productive with advanced task organization, filtering, and secure authentication.
 
-## Technologies Used
+## 🚀 Live Demo
+👉 https://pro-task-manager-pi.vercel.app/
+
+---
+
+## ✨ Features
+
+- **User Authentication**
+  - Secure sign up & sign in
+  - User-specific tasks and preferences
+
+- **Advanced Task Management**
+  - Create, update, delete, and complete tasks
+  - Subtasks support
+  - Due dates and priority levels
+
+- **Organization & Filtering**
+  - Categories and tags
+  - Filter by status, priority, due date, category, and task title
+  - Dashboard with task overview and statistics
+
+- **User Preferences** (to be added) 
+  - Dark / Light mode
+  - Personalized experience per account
+
+- **Data Persistence**
+  - Tasks stored securely in the database
+  - Access your tasks from any device once logged in
+
+---
+
+## 🛠️ Tech Stack
+
 ### Frontend
-- [Next.js](https://nextjs.org/) - React Framework
-- [TypeScript](https://www.typescriptlang.org/) - Javascript Compiler
-- [Tailwind CSS](https://tailwindcss.com/) - CSS Framework
-- [Chakra UI](https://chakra-ui.com/) - UI Component Library
+- [Next.js](https://nextjs.org/) – React Framework (App Router)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [shadcn/ui](https://ui.shadcn.com/) – Accessible, reusable UI components
+- [Formik](https://formik.org/) – Form handling (planning to move to Tanstack Form)
+- [Zod](https://zod.dev/) – Schema validation
+- [TanStack Query](https://tanstack.com/query/latest) – Server-state management & data fetching
 
 ### Backend
-- [Node.js](https://nodejs.org/en)
-- [Express](https://expressjs.com/)
-- [Mongoose](https://mongoosejs.com)
-- [MongoDB(Database)](https://www.mongodb.com/)
+- [Next.js Route Handlers](https://nextjs.org/docs/app/building-your-application/routing/route-handlers)
+- [Prisma ORM](https://www.prisma.io/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [Neon](https://neon.tech/) – Serverless PostgreSQL
 
 ### Authentication
 - [Clerk](https://clerk.com/)
 
+---
+## 📸 Screenshots
+<img width="1440" height="778" alt="Screenshot 2026-01-21 at 3 00 26 PM" src="https://github.com/user-attachments/assets/a2ef2464-a31a-45e6-abdb-2ba35ea068b0" />
+<img width="1440" height="780" alt="Screenshot 2026-01-21 at 3 00 34 PM" src="https://github.com/user-attachments/assets/8a72aa23-cd92-4671-a697-310a3615e146" />
+<img width="1440" height="779" alt="Screenshot 2026-01-21 at 3 00 45 PM" src="https://github.com/user-attachments/assets/049d4711-0a6c-4bc4-a487-a9c543ea35be" />
+<img width="1440" height="779" alt="Screenshot 2026-01-21 at 3 01 23 PM" src="https://github.com/user-attachments/assets/cbf12b0a-ac4c-445e-9220-c20e9ff89acb" />
+<img width="1440" height="778" alt="Screenshot 2026-01-21 at 3 01 41 PM" src="https://github.com/user-attachments/assets/b28bc82c-672a-4671-a4c2-08732f7988b6" />
 
-## Deployed on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🎯 Project Goals
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- Build a scalable, real-world task management application
+- Apply modern full-stack best practices
+- Focus on performance, accessibility, and user experience
+- Continuously improve features based on real usage
 
-## Contributing
-Contributions are welcome! If you're interested in contributing to this project, please reach out to me at <azaniam04@gmail.com> to directly for access to the private repository and further instructions on how to contribute.
+---
+## 📄 License
 
-For any questions or discussions regarding contributions, feel free to contact me via email at <azaniam04@gmail.com>.
+This project is licensed under the MIT License  
+https://opensource.org/license/mit
+---
 
-Your feedback and contributions are highly appreciated!
-
-## License
-This project is licensed under the [MIT License](https://opensource.org/license/mit)
-
-## Screenshots
-
-<img width="500" alt="Screenshot 2024-04-21 at 4 43 35 PM" src="https://github.com/Azania-Mokhampane/My-Todo-App/assets/69697995/770e9f75-6eb6-492a-8960-8c4152f5af3a">
-<img width="500" alt="Screenshot 2024-04-21 at 4 44 16 PM" src="https://github.com/Azania-Mokhampane/My-Todo-App/assets/69697995/72c2ee06-fb61-4053-b178-56966b558df5">
-<img width="500" alt="Screenshot 2024-04-21 at 4 45 14 PM" src="https://github.com/Azania-Mokhampane/My-Todo-App/assets/69697995/de7fb26a-d392-41a4-8d9f-f2dfc41c0a5c">
-<img width="500" alt="Screenshot 2024-04-21 at 4 44 49 PM" src="https://github.com/Azania-Mokhampane/My-Todo-App/assets/69697995/b624967f-6e65-4e0d-966e-1f26b2357e6d">
-<img width="500" alt="Screenshot 2024-04-21 at 4 45 28 PM" src="https://github.com/Azania-Mokhampane/My-Todo-App/assets/69697995/b7bc7d80-ccba-4b00-bdea-b27d350c1281">
-<img width="500" alt="Screenshot 2024-04-21 at 4 45 43 PM" src="https://github.com/Azania-Mokhampane/My-Todo-App/assets/69697995/d8c4cc55-a0aa-4d50-b617-8776acb5584a">
-
-
-## Acknowledgments
-Inspired by the need for a simple and efficient todo list app.
+## 🙏 Acknowledgments
+Built to solve real productivity challenges and continuously evolving with modern web technologies.
 
 Built with ❤️ by [Azania Mokhampane](https://azaniamokhampane.com)
