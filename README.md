@@ -55,11 +55,11 @@ Pro Task Manager is a modern, full-stack task management application designed to
 
 ---
 ## 📸 Screenshots
-<img width="1440" height="778" alt="Screenshot 2026-01-21 at 3 00 26 PM" src="https://github.com/user-attachments/assets/a2ef2464-a31a-45e6-abdb-2ba35ea068b0" />
-<img width="1440" height="780" alt="Screenshot 2026-01-21 at 3 00 34 PM" src="https://github.com/user-attachments/assets/8a72aa23-cd92-4671-a697-310a3615e146" />
-<img width="1440" height="779" alt="Screenshot 2026-01-21 at 3 00 45 PM" src="https://github.com/user-attachments/assets/049d4711-0a6c-4bc4-a487-a9c543ea35be" />
-<img width="1440" height="779" alt="Screenshot 2026-01-21 at 3 01 23 PM" src="https://github.com/user-attachments/assets/cbf12b0a-ac4c-445e-9220-c20e9ff89acb" />
-<img width="1440" height="778" alt="Screenshot 2026-01-21 at 3 01 41 PM" src="https://github.com/user-attachments/assets/b28bc82c-672a-4671-a4c2-08732f7988b6" />
+<img width="1440" height="778" alt="Screenshot 2026-01-22 at 4 36 48 AM" src="https://github.com/user-attachments/assets/5817f972-1568-4e52-b9a5-6c3bc82c62d4" />
+<img width="1440" height="777" alt="Screenshot 2026-01-22 at 4 37 11 AM" src="https://github.com/user-attachments/assets/586cbc19-b2dc-469a-ac80-abddc8c5b6f6" />
+<img width="1440" height="778" alt="Screenshot 2026-01-22 at 4 37 22 AM" src="https://github.com/user-attachments/assets/043e6ccd-021e-44eb-8750-d59cb3b81818" />
+<img width="1440" height="781" alt="Screenshot 2026-01-22 at 4 39 48 AM" src="https://github.com/user-attachments/assets/c006ac63-535b-40be-b4ec-a6b8e1f6933f" />
+
 
 ---
 
