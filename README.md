@@ -73,8 +73,9 @@ Pro Task Manager is a modern, full-stack task management application designed to
 ---
 ## 📄 License
 
-This project is licensed under the MIT License  
+This project is licensed under the MIT License
 https://opensource.org/license/mit
+
 ---
 
 ## 🙏 Acknowledgments
