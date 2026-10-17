@@ -81,4 +81,4 @@ https://opensource.org/license/mit
 ## 🙏 Acknowledgments
 Built to solve real productivity challenges and continuously evolving with modern web technologies.
 
-Built with ❤️ by [Azania Mokhampane](https://azaniamokhampane.com)
+Built with ❤️ by [Azania Mokhampane](https://azaniamokhampane.dev/)
