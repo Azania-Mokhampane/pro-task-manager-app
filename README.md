@@ -3,7 +3,7 @@
 Pro Task Manager is a modern, full-stack task management application designed to help users stay productive with advanced task organization, filtering, and secure authentication.
 
 ## 🚀 Live Demo
-👉 https://pro-task-manager-pi.vercel.app/
+👉 https://ptm.azaniamokhampane.dev/
 
 ---
 
